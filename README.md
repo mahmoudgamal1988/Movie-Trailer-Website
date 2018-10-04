@@ -5,7 +5,8 @@ Udaicty Full Stack Nanodegree's 1st Project, to build a movie trailer website
 ## Content
 
 ### Media 
-this file contians the class **Movie** which contains the instructor `def __init__():` with all the variable instances as shown below:
+
+This file contians the class **Movie** which contains the instructor `def __init__():` with all the variable instances as shown below:
 
  		```
 		self.title = movie_title
@@ -24,7 +25,8 @@ def show_trailer(self):
 ```
 
 ### Entertainment_Center
-this file imported the media file to use the class **Movive**, it is calling the constructor `media.Movie()` to instantiate movie objects
+
+This file imported the media file to use the class **Movive**, it is calling the constructor `media.Movie()` to instantiate movie objects
 
 Sample:
 ```the_nun = media.Movie("The Nun (2018)", "A priest with a haunted past.",
@@ -39,4 +41,6 @@ Sample:
 
 `fresh_tomatoes.open_movies_page(movies)`
   
+  ### Fresh_Tomatoes
   
+  This file contians the HTML, CSS and JS scripts for the website.
