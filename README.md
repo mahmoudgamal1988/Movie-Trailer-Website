@@ -44,3 +44,9 @@ Sample:
   ### Fresh_Tomatoes
   
   This file contians the HTML, CSS and JS scripts for the website.
+  
+  ##How To Run The Project
+  
+  By either downloading or cloning the project, you can do the below steps.
+  
+  
