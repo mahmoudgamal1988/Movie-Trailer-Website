@@ -47,6 +47,7 @@ Sample:
   
   ##How To Run The Project
   
-  By either downloading or cloning the project, you can do the below steps.
+  By either downloading or cloning the project, then you will be able to Open the Entertainment_center.py file via a code editor and run the program.
+
   
   
