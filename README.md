@@ -45,7 +45,7 @@ Sample:
   
   This file contians the HTML, CSS and JS scripts for the website.
   
-  ##How To Run The Project
+  ## How To Run The Project
   
   By either downloading or cloning the project, then you will be able to Open the Entertainment_center.py file via a code editor and run the program.
 
